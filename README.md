@@ -81,7 +81,7 @@ I'm also very fond of **game design** and **interactive storytelling**. ✦
 
 A self-initiated, browser-based trading game built with **PHP** and **MySQL**.
 
-It leans on archetype-based gameplay and morally ambiguous trader encounters, with no explicit "good" or "bad" labels attached — leaving players to make their own interpretations and choices.
+It leans on archetype-based gameplay and morally ambiguous trader encounters, with no explicit "good" or "bad" labels attached, leaving players to make their own interpretations and choices.
 
 > *A little trading, a little storytelling, and a lot of grey area.*
 
@@ -123,6 +123,6 @@ I'd love to hear from you, whether it's a collab, a question, or just a hello. �
 
 ## ୨୧ A Little Note
 
-There is something lovely about turning a rough idea into a working interface. Sketching it out, iterating on it, talking it through with teammates until it clicks, then watching it finally breathe into life — that's the part I love most.
+There is something lovely about turning a rough idea into a working interface. Sketching it out, iterating on it, talking it through with teammates until it clicks, then watching it finally breathe into life, that's the part I love most.
 
 ♡ Thanks for stopping by ♡
