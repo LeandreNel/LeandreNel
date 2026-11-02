@@ -12,7 +12,7 @@
 
 ## ୨୧ About Me
 
-I'm a student at **Open Window University**, double majoring in **UX Design** and **Interactive Development** — which suits me perfectly since I've never liked choosing between the pretty part and the working part.
+I'm a student at **Open Window University**, double majoring in **UX Design** and **Interactive Development**, which suits me perfectly since I've never liked choosing between the pretty part and the working part.
 
 My strengths live right at the intersection of thoughtful design and functional code. I get genuinely giddy about the creative side of coding, and group work brings out my favorite kind of problem-solving: good ideas tend to get even better once a few more heads are on them.
 
